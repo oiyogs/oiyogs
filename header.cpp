@@ -41,6 +41,10 @@ int Size_103052330046(Stack S){
     return S.top;
 }
 
+int hahsjwjww(Stack S){
+    return S.top;
+}
+
 int peek_103052330046(Stack S){
     if (!isEmpty_103052330046(S)){
         return S.info[S.top];
