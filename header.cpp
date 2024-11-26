@@ -13,7 +13,7 @@ bool isEmpty_103052330046(Stack S){
     return S.top == 0;
 }
 
-bool isFullbgtt_103052330046(Stack S){
+bool isFullhahaha_103052330046(Stack S){
     return S.top == MAX;
 }
 
@@ -34,6 +34,7 @@ void pop_103052330046(Stack &S, int &P){
         cout << "Stack Kosong"<< endl;
         couttt;
     }
+    cout << "aka";
 }
 
 int Size_103052330046(Stack S){
