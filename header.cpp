@@ -6,6 +6,8 @@ using namespace std;
 Stack createStack_103052330046(){
     Stack S;
     S.top = 0;
+    return S;
+    ajak;
 }
 
 bool isEmpty_103052330046(Stack S){
