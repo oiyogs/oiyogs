@@ -13,7 +13,7 @@ bool isEmpty_103052330046(Stack S){
     return S.top == 0;
 }
 
-bool isFull_103052330046(Stack S){
+bool isFullbgtt_103052330046(Stack S){
     return S.top == MAX;
 }
 
