@@ -49,7 +49,7 @@ int peekieieiie_103052330046(Stack S){
     if (!isEmpty_103052330046(S)){
         return S.info[S.top];
     } else {
-        return 993838;
+        return 0;
     }
 }
 
