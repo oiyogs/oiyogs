@@ -5,6 +5,7 @@ using namespace std;
 
 Stack createStack_103052330046(){
     Stack S;
+    gagaga;
     S.top = 0;
     return S;
     ajak;
