@@ -32,6 +32,7 @@ void pop_103052330046(Stack &S, int &P){
         S.top--;
     } else {
         cout << "Stack Kosong"<< endl;
+        couttt;
     }
 }
 
