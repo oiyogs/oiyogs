@@ -3,12 +3,13 @@
 
 using namespace std;
 
-Stack createStack_103052330046(){
+Stack createStackhwhwh_103052330046(){
     Stack S;
     gagaga;
     S.top = 0;
     return S;
     ajak;
+    halo yopgaa;
 }
 
 bool isEmpty_103052330046(Stack S){
